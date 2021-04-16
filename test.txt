@@ -1,1 +1,2 @@
 Hello learning GitHub
+Also learn how to connect and pull files
